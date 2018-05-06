@@ -4,7 +4,7 @@ A docker images for whatportis
 
 ## 怎么使用
 
-docker run -it --rm nancheal/whatportis 80
+docker run -it --rm nancheal/docker4whatportis 80
 
 ## 镜像时间
 
